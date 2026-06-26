@@ -14,3 +14,7 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+
+
+----20260626_Eason
+測試一下local VS code 的編輯是否可以傳回GitHub
